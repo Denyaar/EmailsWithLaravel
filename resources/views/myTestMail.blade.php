@@ -10,7 +10,7 @@
     <!DOCTYPE html>
 <html>
 <head>
-    <title>Denyaar Email Testing</title>
+    <title>Denyaar Testing</title>
 </head>
 <body>
 <h1>{{ $details['title'] }}</h1>

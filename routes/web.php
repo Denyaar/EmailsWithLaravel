@@ -23,7 +23,7 @@ Route::get('/', function () {
 Route::get('send-mail', function () {
 
     $details = [
-        'title' => 'Mail from Denyaar',
+        'title' => 'My Test Email',
         'body' => 'This is for testing email using smtp'
     ];
 
